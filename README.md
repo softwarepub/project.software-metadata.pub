@@ -2,6 +2,26 @@
 
 HERMES is a project to develop automated workflows for publishing research software together with rich metadata, to improve finding, understanding, reusing, sharing and citing, and promoting software to first class research citizenship. This project (ZT-I-PF-3-006) was funded by the Initiative and Networking Fund of the Helmholtz Association in the framework of the Helmholtz Metadata Collaboration project call.
 
+## Events & resources
+
+### HERMES Kickoff Workshop - 2021-11-12
+
+In November 2021, the HERMES project ran a kickoff workshop with partner projects, stakeholders and interested parties.
+The event website provides general information about the workshop as well as the slides and recording for the presentations given at the workshop:
+
+1. **Daniel Garijo** (Universidad Politécnica de Madrid): *SOMEF: A Metadata Extraction Framework from Software Documentation*
+2. **Carlos Martinez-Ortiz** (Netherlands eScience Center): *Research Software Directory: past - present - future*
+3. **Ana Trisovic** (Harvard University): *The Dataverse Project - Supporting (research) code in dataset publications*
+4. **Sara Gonzales** (Northwestern University): *Powering open science and collaboration with Invenio*
+5. **Dorothea Iglezakis** (University of Stuttgart): *Handling Research Software: Projects in Stuttgart*
+6. **Felix Bach** (Karlsruhe Institute of Technology): *Code management in openCARP & publication on RADAR4KIT*
+
+:link: [Event website](https://events.hifis.net/event/205/)
+
+### Presentations
+
+- [HERMES introductory slides from the HMC Welcome Meeting](https://helmholtz-metadaten.de/download/projects/07_HERMES_HMC.pdf) - 2021-04-13
+
 ## Giving feedback on the HERMES project
 
 This is an open repository to collect feedback on the HERMES project.
