@@ -1,1 +1,45 @@
+name: HMC Project HERMES
+title: HMC Project HERMES
+
+description: > 
+  HERMES is a project to develop automated workflows for publishing research
+  software together with rich metadata, to improve finding, understanding,
+  reusing, sharing and citing, and promoting software to first class research
+  citizenship.
+
+version: v0.2
+safe: true # mimic GitHub Pages locally
+
+baseurl: ""
+permalink: /:slug/
+
 theme: jekyll-theme-architect
+
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
+
+collections:
+  urls:
+    output: true
+    permalink: /:slug
+
+redirect_from:
+  json: false
+
+include:
+  - _urls
+
+exclude:
+  # copy of default
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # custom excludes
+  - LICENSE
+  - CNAME
