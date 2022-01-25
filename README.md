@@ -4,7 +4,7 @@
 
 ### HERMES Concept Paper
 
-We’ve now published a concept paper (https://arxiv.org/abs/2201.09015),
+We’ve now published a [concept paper via ArXiV](https://arxiv.org/abs/2201.09015),
 informed by the participants of our project kickoff workshop in November,
 that discusses the state of the art, and lays out our ideas for automated
 workflows to publish to InvenioRDM and Dataverse.
@@ -15,8 +15,10 @@ ideally until 13 February!
 
 ### HERMES Kickoff Workshop - 2021-11-12
 
-In November 2021, the HERMES project ran a kickoff workshop with partner projects, stakeholders and interested parties.
-The event website provides general information about the workshop as well as the slides and recording for the presentations given at the workshop:
+In November 2021, the [HERMES project ran a kickoff workshop](https://events.hifis.net/event/205/)
+with partner projects, stakeholders and interested parties. The [event website](https://events.hifis.net/event/205/)
+provides general information about the workshop as well as the slides and
+recordings for the presentations given at the workshop:
 
 1. **Daniel Garijo** (Universidad Politécnica de Madrid): *SOMEF: A Metadata Extraction Framework from Software Documentation*
 2. **Carlos Martinez-Ortiz** (Netherlands eScience Center): *Research Software Directory: past - present - future*
@@ -24,8 +26,6 @@ The event website provides general information about the workshop as well as the
 4. **Sara Gonzales** (Northwestern University): *Powering open science and collaboration with Invenio*
 5. **Dorothea Iglezakis** (University of Stuttgart): *Handling Research Software: Projects in Stuttgart*
 6. **Felix Bach** (Karlsruhe Institute of Technology): *Code management in openCARP & publication on RADAR4KIT*
-
-:link: [Event website](https://events.hifis.net/event/205/)
 
 ### Presentations
 
