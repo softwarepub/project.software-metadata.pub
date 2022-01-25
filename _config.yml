@@ -1,11 +1,9 @@
-name: HMC HERMES
-title: HMC HERMES
+name: Project HERMES
+title: Project HERMES
 
 description: >
-  A project to develop automated workflows for publishing research
-  software together with rich metadata, to improve finding, understanding,
-  reusing, sharing and citing, and promoting software to first class research
-  citizenship.
+  Developing automated workflows for metadata rich research
+  software publications.
 
 version: v0.2
 safe: true # mimic GitHub Pages locally
