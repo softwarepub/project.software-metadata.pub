@@ -1,6 +1,4 @@
-# HERMES - HElmholtz Rich MEtadata Software Publication
-
-HERMES is a project to develop automated workflows for publishing research software together with rich metadata, to improve finding, understanding, reusing, sharing and citing, and promoting software to first class research citizenship. This project (ZT-I-PF-3-006) was funded by the Initiative and Networking Fund of the Helmholtz Association in the framework of the Helmholtz Metadata Collaboration project call.
+# HElmholtz Rich MEtadata Software Publication
 
 ## Events & resources
 
@@ -31,6 +29,12 @@ We see our project as part of a global and inter-disciplinary effort to improve 
 ### How to give feedback
 
 Please [create a new issue](https://github.com/hermes-hmc/feedback/issues/new/choose) in this repository.
+
+## Acknowledgements
+
+This project (ZT-I-PF-3-006) was funded by the Initiative and Networking Fund of
+the Helmholtz Association in the framework of the Helmholtz Metadata
+Collaboration 2020 project call.
 
 ## License
 
