@@ -1,11 +1,11 @@
-HERMES is an acronym for "HElmholtz Rich MEtadata Software Publication".
+HERMES is an acronym for "HElmholtz Rich MEtadata Software publications".
 
 A project to develop automated workflows for publishing research software
 together with rich metadata, to improve finding, understanding, reusing, sharing
 and citing, and promoting software to first class research citizenship.
 
-While the project partners are members of the Helmholtz Association, this
-project is by no means limited to it!
+While the project partners are members of the Helmholtz Association, it's by no
+means limited to it!
 
 We have an open mindset and will release any outcomes as open material.
 Software will be developed in the open and released with an open source license.
