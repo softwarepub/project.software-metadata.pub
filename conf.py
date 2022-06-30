@@ -78,7 +78,7 @@ html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
 html_logo = '_static/img/hermes-visual-blue.svg'
-html_title = 'The HERMES project'
+html_title = 'The HERMES Project'
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
@@ -90,5 +90,16 @@ html_permalinks = True
 html_permalinks_icon = "<i class=\"fas fa-link\"></i>"
 
 html_theme_options = {
-    "extra_navbar": "<div>Funded by the <i>Initiative and Networking Fund</i> of the <a href=''>Helmholtz Association</a> in the framework of the <a href=''>Helmholtz Metadata Collaboration</a></div>",
+    "home_page_in_toc": True,
+    "extra_navbar": "<div>Funded by the <i>Initiative and Networking Fund</i> of the <a \
+                     href='https://www.helmholtz.de/en/about-us/structure-and-governance/initiating-and-networking/' \
+                    target='_blank'>Helmholtz Association</a> in the framework of the \
+                    <a href='https://helmholtz-metadaten.de' targe='_blank'>Helmholtz Metadata \
+                    Collaboration</a></div>",
+    "repository_url": "https://github.com/hermes-hmc/project",
+    "use_repository_button": True,
 }
+
+html_css_files = [
+    'custom.css',
+]
