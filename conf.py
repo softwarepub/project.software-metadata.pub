@@ -104,3 +104,11 @@ html_theme_options = {
 html_css_files = [
     'custom.css',
 ]
+
+# -- Options for OpenGraph Tags ----------------------------------------------
+
+ogp_site_url = "https://project.software-metadata.pub/"
+ogp_image = "https://project.software-metadata.pub/_static/img/opengraph.png"
+ogp_image_alt = "The HERMES key visual on a green background with pipelines and the acronym written out as Helmholtz Rich Metadata Software Publications"
+ogp_description_length = 200
+ogp_type = "website"
