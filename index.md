@@ -6,9 +6,18 @@ sd_hide_title: true
 
 ```{toctree}
 :hidden:
+:caption: Project Materials
 resources
 events
 presentations
+Concept Paper <https://arxiv.org/abs/2201.09015>
+Workflow Documentation <https://github.com/hermes-hmc/workflow>
+```
+
+```{toctree}
+:hidden:
+:caption: Related
+GDCC Software, Workflow and Containers WG <https://swc.wgs.gdcc.io>
 ```
 
 **HERMES** is an acronym for "**HE**lmholtz **R**ich **ME**tadata **S**oftware publications".

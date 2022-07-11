@@ -1,5 +1,17 @@
 # Events
 
+(rsecon2022)=
+
+## HERMES MVP Workshop - 2022-09-07
+
+During [RSE Conference 2022](https://rsecon2022.society-rse.org/) we host a
+[workshop to present our "minimum viable product"](https://virtual.oxfordabstracts.com/#/event/3101/submission/98)
+to a broader RSE audience and hack on further improvements.
+
+Would be nice to meet you there!
+
+(kickoff)=
+
 ## HERMES Kickoff Workshop - 2021-11-12
 
 In November 2021, the [HERMES project ran a kickoff workshop](https://events.hifis.net/event/205/)
