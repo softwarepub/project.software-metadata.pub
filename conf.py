@@ -42,6 +42,7 @@ extensions = [
     'sphinxcontrib.images',
     'sphinxcontrib.icon',
     'sphinxemoji.sphinxemoji',
+    "sphinxext.opengraph",
     'myst_parser'
 ]
 
