@@ -11,7 +11,7 @@ safe: true # mimic GitHub Pages locally
 baseurl: ""
 permalink: /:slug/
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-redirect-from
