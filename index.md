@@ -11,7 +11,7 @@ resources
 events
 presentations
 Concept Paper <https://arxiv.org/abs/2201.09015>
-Workflow Documentation <https://github.com/hermes-hmc/workflow>
+Workflow Documentation <https://docs.software-metadata.pub>
 ```
 
 ```{toctree}
