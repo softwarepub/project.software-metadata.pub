@@ -110,15 +110,24 @@ Any scholarly publications, documentation and training materials will be
 provided open access.
 
 
-## Feedback
+## Get in touch!
 
-This is an open repository to collect feedback on the HERMES project.
+We see our project as part of a global and inter-disciplinary effort to improve the state of the art in research software engineering, maintenance and scholarly communications around research software. We would therefore like to encourage discussion and collaboration around HERMES, and appreciate any feedback you may have on the HERMES project itself or any of its outputs.
 
-We see our project as part of a global and inter-disciplinary effort to improve the state of the art in research software engineering, maintenance and scholarly communications around research software. We therefore appreciate any feedback you may have on the HERMES project itself and any of its outputs.
+### Getting in touch
 
-**How to give feedback**
+✉ You can always write the HERMES team an email at [team@software-metadata.pub](mailto:team@software-metadata.pub).
 
-Either [create an issue](https://github.com/hermes-hmc/feedback/issues/new/choose) in our project repository or [send us an email](mailto:team@software-metadata.pub?subject=HERMES%20Reachout).
+If what you would like to talk about is easier to do in a video call, you are invited to join our weekly project meetings.
+These take place regularly on Wednesdays, at 10:00 CET/CEST (check to see what time this is in your timezone).
+
+If you want to join us, please let us know via email first, so we can share details on how to join, etc.
+We will also try to find a date and time that suits you, if you cannot make the regular time at all.
+
+### Providing feedback
+
+We collect feedback on the HERMES project in an [open project repository on GitHub](https://github.com/hermes-hmc/project).
+You can [create an issue there](https://github.com/hermes-hmc/feedback/issues/new/choose), or simply write us an email at [team@software-metadata.pub](mailto:team@software-metadata.pub?subject=HERMES%20feedback).
 
 ## Acknowledgements
 
