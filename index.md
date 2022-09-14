@@ -119,7 +119,7 @@ We see our project as part of a global and inter-disciplinary effort to improve 
 ✉ You can always write the HERMES team an email at [team@software-metadata.pub](mailto:team@software-metadata.pub).
 
 If what you would like to talk about is easier to do in a video call, you are invited to join our weekly project meetings.
-These take place regularly on Wednesdays, at 10:00 CET/CEST (check to see what time this is in your timezone).
+These take place regularly on *Wednesdays, at 10:00 CET/CEST* ([check to see what this is in your timezone](https://arewemeetingyet.com/Berlin/2022-09-14/10:00/w/HERMES%20project%20meeting)).
 
 If you want to join us, please let us know via email first, so we can share details on how to join, etc.
 We will also try to find a date and time that suits you, if you cannot make the regular time at all.
