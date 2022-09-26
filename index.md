@@ -20,7 +20,7 @@ Workflow Documentation <https://docs.software-metadata.pub>
 GDCC Software, Workflow and Containers WG <https://swc.wgs.gdcc.io>
 ```
 
-**HERMES** is an acronym for "**HE**lmholtz **R**ich **ME**tadata **S**oftware publications".
+**HERMES** is an acronym for "**HE**lmholtz **R**ich **ME**tadata **S**oftware publication".
 
 To satisfy the principles of [FAIR research software](https://doi.org/10.15497/RDA00068),
 software sustainability and software citation, research software must be formally
