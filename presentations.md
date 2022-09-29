@@ -6,11 +6,11 @@
 * - Date
   - Topic
   - Event
-  - Slides
+  - Slides/Poster
   - Records
 * - 2021-04-13
   - P
-  - HMC Welcome Meeting
+  - [HMC](https://helmholtz-metadata.de) Welcome Meeting
   - [PDF](https://helmholtz-metadaten.de/download/projects/07_HERMES_HMC.pdf)
   - \-
 * - 2021-05-17
@@ -42,10 +42,40 @@
   - RSR
   - [Dataverse Community Meeting 2022](https://projects.iq.harvard.edu/dcm2022)
   - [PDF](http://talks.bertuch.name/dcm2022/slides.pdf), [HTML](http://talks.bertuch.name/dcm2022)
-  - (TBA)
+  - [YouTube](https://www.youtube.com/watch?v=eeCMN_5Nj_0&t=2293s)
 * - 2022-09-06
   - W
-  - [RSE Conference 2022](https://rsecon2022.society-rse.org/)
+  - [RSE Conference 2022](https://rsecon2022.society-rse.org/) - [Talk](https://virtual.oxfordabstracts.com/#/event/public/3101/submission/110)
+  - [PDF](https://doi.org/10.5281/zenodo.7049910)
+  - (TBA)
+* - 2022-09-07
+  - W, (RSR)
+  - [RSE Conference 2022](https://rsecon2022.society-rse.org/) - [Workshop](https://virtual.oxfordabstracts.com/#/event/public/3101/submission/98)
+  - [PDF](https://doi.org/10.5281/zenodo.7124166)
+  - \-
+* - 2022-09-16
+  - W
+  - [DINI Workshop "Forschungssoftware managen"](https://dini.de/veranstaltungen/workshops/forschungssoftware-managen/)
+  - [PDF](https://doi.org/10.5281/zenodo.7125673)
+  - \-
+* - 2022-09-19
+  - W
+  - [NFDI Workshop "Towards a NFDI Software Marketplace"](https://events.hifis.net/event/542/)
+  - [PDF](https://doi.org/10.5281/zenodo.7125673)
+  - \-
+* - 2022-09-26
+  - W
+  - [8th Annual MT Meeting](https://indico.desy.de/event/33132/)
+  - [Tweet](https://twitter.com/olikno1/status/1574455969945452544)
+  - \-
+* - 2022-10-05
+  - W
+  - [HMC](https://helmholtz-metadata.de) [Conference 2022](https://events.hifis.net/event/469)
+  - (TBA), (Poster TBA)
+  - \-
+* - 2022-12-09
+  - W, RSR
+  - [HMC](https://helmholtz-metadata.de) [FAIR Friday](https://helmholtz-metadaten.de/en/pages/fair-friday)
   - (TBA)
   - (TBA)
 ```
