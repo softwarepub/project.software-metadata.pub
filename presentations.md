@@ -66,7 +66,7 @@
 * - 2022-09-26
   - W
   - [8th Annual MT Meeting](https://indico.desy.de/event/33132/)
-  - [Tweet](https://twitter.com/olikno1/status/1574455969945452544)
+  - [Poster](https://indico.desy.de/event/33132/contributions/128927/attachments/77505/100242/Hermes_Poster_portrait.pdf) - [Event](https://indico.desy.de/event/33132/contributions/128927/) - [Tweet](https://twitter.com/olikno1/status/1574455969945452544)
   - \-
 * - 2022-10-05
   - W
