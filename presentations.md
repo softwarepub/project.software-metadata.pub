@@ -66,12 +66,12 @@
 * - 2022-09-26
   - W
   - [8th Annual MT Meeting](https://indico.desy.de/event/33132/)
-  - [PDF](https://indico.desy.de/event/33132/contributions/128927/attachments/77505/100242/Hermes_Poster_portrait.pdf) - [Tweet](https://twitter.com/olikno1/status/1574455969945452544)
+  - [Poster](https://indico.desy.de/event/33132/contributions/128927/attachments/77505/100242/Hermes_Poster_portrait.pdf)
   - \-
 * - 2022-10-05
   - W
   - [HMC](https://helmholtz-metadata.de) [Conference 2022](https://events.hifis.net/event/469)
-  - (TBA), (Poster TBA)
+  - [PDF](https://doi.org/10.5281/zenodo.7144022), [Poster](https://doi.org/10.5281/zenodo.7092348)
   - \-
 * - 2022-12-09
   - W, RSR
