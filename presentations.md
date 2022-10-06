@@ -52,7 +52,7 @@
   - W, (RSR)
   - [RSE Conference 2022](https://rsecon2022.society-rse.org/) - [Workshop](https://virtual.oxfordabstracts.com/#/event/public/3101/submission/98)
   - [PDF](https://doi.org/10.5281/zenodo.7124166)
-  - \-
+  - [SSI Blog](https://www.software.ac.uk/blog/2022-10-06-rsecon22-collaborating-automation-research-software-publication-rich-metadata)
 * - 2022-09-16
   - W
   - [DINI Workshop "Forschungssoftware managen"](https://dini.de/veranstaltungen/workshops/forschungssoftware-managen/)
