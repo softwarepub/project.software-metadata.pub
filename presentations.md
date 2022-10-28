@@ -47,7 +47,7 @@
   - W
   - [RSE Conference 2022](https://rsecon2022.society-rse.org/) - [Talk](https://virtual.oxfordabstracts.com/#/event/public/3101/submission/110)
   - [PDF](https://doi.org/10.5281/zenodo.7049910)
-  - (TBA)
+  - [YouTube](https://www.youtube.com/watch?v=i5xXty8dOYk)
 * - 2022-09-07
   - W, (RSR)
   - [RSE Conference 2022](https://rsecon2022.society-rse.org/) - [Workshop](https://virtual.oxfordabstracts.com/#/event/public/3101/submission/98)
