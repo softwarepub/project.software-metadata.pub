@@ -99,6 +99,12 @@ Made by [DLR](https://dlr.de), [HZDR](https://hzdr.de) and [FZJ](https://fz-juel
     :target: https://fz-juelich.de/profile/bertuch_o
 ```
 
+```{image} _static/img/pape.jpg
+    :alt: David Pape
+    :class: member
+    :target: https://www.hzdr.de/db/!ContMan.Visi.Card?pUid=139658&pNid=5
+```
+
 </p>
 
 While the project partners are members of the [Helmholtz Association](https://helmholtz.de),
