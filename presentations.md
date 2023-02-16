@@ -76,8 +76,23 @@
 * - 2022-12-09
   - W, RSR
   - [HMC](https://helmholtz-metadata.de) [FAIR Friday](https://helmholtz-metadaten.de/en/pages/fair-friday)
+  - [PDF](https://doi.org/10.5281/zenodo.7387926)
+  - (TBA)
+* - 2023-02-20
+  - W
+  - [deRSE23](https://de-rse23.sciencesconf.org/) - Talk
   - (TBA)
   - (TBA)
+* - 2023-02-20
+  - W, (RSR)
+  - [deRSE23](https://de-rse23.sciencesconf.org/) - Demo
+  - [Poster](https://doi.org/10.5281/zenodo.7646519)
+  - \-
+* - 2023-03-??
+  - W, (RSR)
+  - HMC Projects Welcome Meeting
+  - [Poster](https://doi.org/10.5281/zenodo.7646519)
+  - \-
 ```
 
 Topics: *P* = Project, *W* = Workflow, *RSR* = Research Software Readiness
