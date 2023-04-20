@@ -43,6 +43,11 @@
   - [Dataverse Community Meeting 2022](https://projects.iq.harvard.edu/dcm2022)
   - [PDF](http://talks.bertuch.name/dcm2022/slides.pdf), [HTML](http://talks.bertuch.name/dcm2022)
   - [YouTube](https://www.youtube.com/watch?v=eeCMN_5Nj_0&t=2293s)
+* - 2022-08-16
+  - P, W
+  - [Software Citation Workshop 2022](https://library.cfa.harvard.edu/software-citation-workshop-2022)
+  - \-
+  - [Report](https://doi.org/10.48550/arXiv.2302.07500)
 * - 2022-09-06
   - W
   - [RSE Conference 2022](https://rsecon2022.society-rse.org/) - [Talk](https://virtual.oxfordabstracts.com/#/event/public/3101/submission/110)
@@ -73,25 +78,45 @@
   - [HMC](https://helmholtz-metadata.de) [Conference 2022](https://events.hifis.net/event/469)
   - [PDF](https://doi.org/10.5281/zenodo.7144022), [Poster](https://doi.org/10.5281/zenodo.7092348)
   - \-
+* - 2022-11-09
+  - W
+  - Workshop [Data and Software Publication](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031647)
+  - \-
+  - [Report](https://upstream.force11.org/interoperable-infrastructure-for-software-and-data-publishing/)
+* - 2022-11-12
+  - W
+  - Workshop [Ciencia Abierta, un Paisaje en Construcción con un Horizonte de posibilidades](https://www.ciem.unican.es/celebrado-en-ciem-el-workshop-ciencia-abierta/)
+  - [PDF](https://doi.org/10.5281/zenodo.7312323)
+  - \-
 * - 2022-12-09
   - W, RSR
-  - [HMC](https://helmholtz-metadata.de) [FAIR Friday](https://helmholtz-metadaten.de/en/pages/fair-friday)
+  - [HMC](https://helmholtz-metadata.de) [FAIR Friday](https://helmholtz-metadaten.de/en/fair-friday)
   - [PDF](https://doi.org/10.5281/zenodo.7387926)
-  - (TBA)
+  - \-
+* - 2023-02-08
+  - W
+  - Research Seminar "Aktuelle Themen des Research Software Engineering"
+  - [PDF](https://doi.org/10.5281/zenodo.7620412)
+  - \-
 * - 2023-02-20
   - W
   - [deRSE23](https://de-rse23.sciencesconf.org/) - Talk
-  - (TBA)
-  - (TBA)
+  - [PDF](https://doi.org/10.5281/zenodo.7654819)
+  - \-
 * - 2023-02-20
   - W, (RSR)
   - [deRSE23](https://de-rse23.sciencesconf.org/) - Demo
   - [Poster](https://doi.org/10.5281/zenodo.7646519)
   - \-
-* - 2023-03-??
+* - 2023-04-04
   - W, (RSR)
   - HMC Projects Welcome Meeting
   - [Poster](https://doi.org/10.5281/zenodo.7646519)
+  - \-
+* - 2023-04-17
+  - W
+  - [Leibniz MMS Days 2023](https://www.wias-berlin.de/workshops/MMSDays23/)
+  - [PDF](https://doi.org/10.5281/zenodo.7835366)
   - \-
 ```
 
