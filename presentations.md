@@ -118,6 +118,16 @@
   - [Leibniz MMS Days 2023](https://www.wias-berlin.de/workshops/MMSDays23/)
   - [PDF](https://doi.org/10.5281/zenodo.7835366)
   - \-
+* - 2023-05-24
+  - W
+  - [DataCite Webinar "DOIs for Research Software"](https://datacite.zoom.us/webinar/register/1016832862277/WN_-K-zNcRIQOmxU3y1v-nEpQ#/registration)
+  - [PDF](https://doi.org/10.5281/zenodo.7963967)
+  - [Youtube](https://youtu.be/LaUdaQ-lI1E?t=2991)
+* 2023-06-06
+  - RSR
+  - [Dataverse Community Meeting 2023](https://projects.iq.harvard.edu/dcm2023)
+  - [Poster](https://doi.org/10.5281/zenodo.7986936)
+  - \-
 ```
 
 Topics: *P* = Project, *W* = Workflow, *RSR* = Research Software Readiness
