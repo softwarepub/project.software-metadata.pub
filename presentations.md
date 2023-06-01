@@ -126,7 +126,7 @@
 * - 2023-06-06
   - RSR
   - [Dataverse Community Meeting 2023](https://projects.iq.harvard.edu/dcm2023)
-  - [Poster](https://doi.org/10.5281/zenodo.7986936)
+  - [Poster](https://doi.org/10.5281/zenodo.7986935)
   - \-
 ```
 
