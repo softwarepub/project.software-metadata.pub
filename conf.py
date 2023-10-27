@@ -83,7 +83,7 @@ html_title = 'The HERMES Project'
 
 # Custom sidebar templates, maps document names to template names.
 html_sidebars = {
-    "**": ["sidebar-logo.html", "sbt-sidebar-nav.html"]
+    "**": ["navbar-logo.html", "sbt-sidebar-nav.html", "funding.html"]
 }
 
 # Enable and customize the permanent headerlinks with a nice icon (chain symbol from FontAwesome)
@@ -92,18 +92,18 @@ html_permalinks_icon = "<i class=\"fas fa-link\"></i>"
 
 html_theme_options = {
     "home_page_in_toc": True,
-    "extra_navbar": "<div>Funded by the <i>Initiative and Networking Fund</i> of the <a \
-                     href='https://www.helmholtz.de/en/about-us/structure-and-governance/initiating-and-networking/' \
-                    target='_blank'>Helmholtz Association</a> in the framework of the \
-                    <a href='https://helmholtz-metadaten.de' targe='_blank'>Helmholtz Metadata \
-                    Collaboration</a></div>",
     "repository_url": "https://github.com/hermes-hmc/project",
     "use_repository_button": True,
+    "navigation_with_keys": False,
 }
 
 html_css_files = [
     'custom.css',
 ]
+
+html_context = {
+    "default_mode": "light",
+}
 
 # -- Options for OpenGraph Tags ----------------------------------------------
 
