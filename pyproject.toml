@@ -1,0 +1,36 @@
+[tool.poetry]
+name = "hermes-project-website"
+version = "0.0.1"
+description = "Sphinx project for HERMES project website"
+homepage = "https://project.software-metadata.pub"
+authors = []
+
+readme = "README.md"
+repository = "https://github.com/hermes-hmc/project"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+taskipy = "^1.10.3"
+
+Sphinx = "^6.2.1"
+sphinx-book-theme = "^1.0.1"
+# Sphinx - Additional modules
+myst-parser = "^2.0.0"
+sphinx-favicon = "^0.2"
+sphinxcontrib-contentui = "^0.2.5"
+sphinxcontrib-images = "^0.9.4"
+sphinx-icon = "^0.1.2"
+sphinx-autobuild = "^2021.3.14"
+sphinxemoji = "^0.2.0"
+sphinxext-opengraph = "^0.6.3"
+sphinxcontrib-mermaid="^0.8.1"
+sphinx-togglebutton="^0.3.2"
+
+[tool.taskipy.tasks]
+docs-build = "poetry run sphinx-build -M html . _build -W --keep-going"
+docs-clean = "poetry run sphinx-build -M clean . _build"
+docs-live = "poetry run sphinx-autobuild . _build/html --open-browser --delay=2"
+
+[build-system]
+requires = ["poetry-core>=1.2.0"]
+build-backend = "poetry.core.masonry.api"

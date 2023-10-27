@@ -1,6 +1,17 @@
+.funding {
+    font-size: 75%;
+    position: absolute;
+    bottom: 1rem;
+}
+
+/* Workaround for sidebar scrollbar, see also https://github.com/executablebooks/sphinx-book-theme/issues/732 */
+.bd-sidebar-primary div#rtd-footer-container {
+    position:fixed;
+}
+
 img.member {
     max-width: 15%;
-    border-radius: 50%;
+    border-radius: 50% !important;
     margin-top: 0.3em;
 }
 
