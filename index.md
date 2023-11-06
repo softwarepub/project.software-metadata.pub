@@ -75,6 +75,11 @@ Made by [DLR](https://dlr.de), [HZDR](https://hzdr.de) and [FZJ](https://fz-juel
     :target: https://www.dlr.de/sc/desktopdefault.aspx/tabid-1192/1635_read-5420
 ```
 
+```{image} _static/img/kernchen.jpg
+    :alt: Sophie Kernchen
+    :class: member
+```
+
 ```{image} _static/img/knodel.jpg
     :alt: Oliver Knodel
     :class: member
