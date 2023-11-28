@@ -137,8 +137,8 @@ We will also try to find a date and time that suits you, if you cannot make the 
 
 ### Providing feedback
 
-We collect feedback on the HERMES project in an [open project repository on GitHub](https://github.com/hermes-hmc/project).
-You can [create an issue there](https://github.com/hermes-hmc/project/issues/new/choose), or simply write us an email at [team@software-metadata.pub](mailto:team@software-metadata.pub?subject=HERMES%20feedback).
+We collect feedback on the HERMES project in an [open project repository on GitHub](https://github.com/hermes-hmc/project.software-metadata.pub).
+You can [create an issue there](https://github.com/hermes-hmc/project.software-metadata.pub/issues/new/choose), or simply write us an email at [team@software-metadata.pub](mailto:team@software-metadata.pub?subject=HERMES%20feedback).
 
 ## Acknowledgements
 
