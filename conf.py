@@ -92,7 +92,7 @@ html_permalinks_icon = "<i class=\"fas fa-link\"></i>"
 
 html_theme_options = {
     "home_page_in_toc": True,
-    "repository_url": "https://github.com/hermes-hmc/project",
+    "repository_url": "https://github.com/hermes-hmc/project.software-metadata.pub",
     "use_repository_button": True,
     "navigation_with_keys": False,
 }
