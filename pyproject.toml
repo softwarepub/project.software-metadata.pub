@@ -4,6 +4,7 @@ version = "0.0.1"
 description = "Sphinx project for HERMES project website"
 homepage = "https://project.software-metadata.pub"
 authors = []
+package-mode = false
 
 readme = "README.md"
 repository = "https://github.com/hermes-hmc/project.software-metadata.pub"
