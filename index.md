@@ -110,7 +110,7 @@ Made by [DLR](https://dlr.de), [HZDR](https://hzdr.de) and [FZJ](https://fz-juel
     :target: https://fz-juelich.de/profile/bertuch_o
 ```
 
-```{image} _static/img/heeb.jpg
+```{image} _static/img/heeb.png
     :alt: Nitai Heeb
     :class: member
 ```
