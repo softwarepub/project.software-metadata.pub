@@ -19,7 +19,7 @@
 
 project = 'HERMES project'
 copyright = '2022, HERMES project'
-author = 'Oliver Bertuch, Stephan Druskat, Guido Juckeland, Jeffrey Kelling, Oliver Knodel, Michael Meinel, Tobias Schlauch, Sophie Kernchen'
+author = 'Oliver Bertuch, Stephan Druskat, Guido Juckeland, Jeffrey Kelling, Oliver Knodel, Michael Meinel, Tobias Schlauch, Sophie Kernchen, Nitai Heeb'
 
 # The full version, including alpha/beta/rc tags
 release = '2022-07-01'
